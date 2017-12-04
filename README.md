@@ -9,3 +9,5 @@
 - [正则表达式](https://github.com/firewithwind/JavaScript-/blob/master/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
 
 - [类](https://github.com/firewithwind/JavaScript-/blob/master/%E7%B1%BB.md)
+
+- [String](https://github.com/firewithwind/JavaScript-/blob/master/String.md)
