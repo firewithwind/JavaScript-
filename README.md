@@ -11,3 +11,11 @@
 - [类](https://github.com/firewithwind/JavaScript-/blob/master/%E7%B1%BB.md)
 
 - [String](https://github.com/firewithwind/JavaScript-/blob/master/String.md)
+
+- [Number](https://github.com/firewithwind/JavaScript-/blob/master/NUmber.md)
+
+- [Window](https://github.com/firewithwind/JavaScript-/blob/master/window.md)
+
+- [Location](https://github.com/firewithwind/JavaScript-/blob/master/Location.md)
+
+- [History](https://github.com/firewithwind/JavaScript-/blob/master/History.md)
